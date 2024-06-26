@@ -9,3 +9,9 @@ contains topic such as:
     - HTML Basic Syntax and it's Explaination
        - HTML Basic Syntax
        - Explaination of above 
+
+## HTML Introduction
+### What is HTML
+
+
+HTML (***H***yper ***T***ext ***M***arkup ***L***anguage) is basic building block of any wab page 
