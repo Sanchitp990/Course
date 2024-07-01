@@ -3,13 +3,12 @@
 
 In this tutorial you will see a introduction to HTML this tutorial
 contains topic such as:
-
-- [HTML Introduction](#Intro)
+- HTML Introduction
   - What is HTML
   - HTML Syntax
   - Explanation of above HTML document
 
-## [HTML Introduction]{#Intro}
+## HTML Introduction
 ### What is HTML 
 
 HTML stands for ***H***yper ***T***ext ***M***arkup ***L***anguage it is a markup language used to create web pages. HTML is a basic building block of a web pages.
@@ -46,4 +45,3 @@ HTML stands for ***H***yper ***T***ext ***M***arkup ***L***anguage it is a marku
 
 ## Who created HTML
 - HTML was created by **Tim Berners-Lee** in 1991.
-
