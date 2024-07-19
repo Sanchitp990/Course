@@ -1,12 +1,14 @@
 # Chapter - 00 | HTML Introduction
 ## Overview
 
-In this tutorial you will see a introduction to HTML this tutorial
-contains topic such as:
-- HTML Introduction
+In this tutorial you will see a introduction to HTML this tutorial contains topic such as:
+
+- HTML Introduction 
   - What is HTML
-  - HTML Syntax
-  - Explanation of above HTML document
+- HTML Syntax
+  - Explanation of above HTML document 
+- History HTML
+
 
 ## HTML Introduction
 ### What is HTML 
@@ -31,7 +33,7 @@ HTML stands for ***H***yper ***T***ext ***M***arkup ***L***anguage it is a marku
 
 ```
 
-## Explanation of above HTML document 
+### Explanation of above HTML document 
 
 - `<!DOCTYPE html>` : This declaration defines the document type and version of HTML. It helps the browser understand that this is an HTML5 document.
 
@@ -43,5 +45,9 @@ HTML stands for ***H***yper ***T***ext ***M***arkup ***L***anguage it is a marku
 
 - `<body>` : This section contains the content of the document that will be displayed on the web page.
 
-## Who created HTML
-- HTML was created by **Tim Berners-Lee** in 1991.
+## History HTML
+
+HTML was created by ***[Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)*** in 1991. Tim Berners-Lee is a British computer scientist who is best known as the inventor of the World Wide Web. He developed HTML while working at *CERN (the European Organization for Nuclear Research)* in Switzerland.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Next](<"/Web Development/Front-End Development/HTML/Chapter-01 Get Started">)
