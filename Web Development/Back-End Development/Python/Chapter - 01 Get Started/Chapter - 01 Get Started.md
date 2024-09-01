@@ -16,7 +16,7 @@ To install Visual Studio Code visit ***[code.visualstudio.com](https://code.visu
 
 **Note:-** Click the image below to see the video of *how installation of python extension in vs code* if you want it.
 
-[![Video and Image to install python extension](</GitHub_Images/Installation of Python extension vs code in Image.png>)](</GitHub_Images/video.html>)
+[![Video and Image to install python extension](</GitHub_Images/Installation of Python extension vs code in Image.png>)](http://127.0.0.1:3000/GitHub_Images/video.html)
 
 
 ## Run First Program in Python
