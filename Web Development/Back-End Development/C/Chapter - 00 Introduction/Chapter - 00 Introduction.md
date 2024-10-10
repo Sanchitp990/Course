@@ -25,5 +25,5 @@ The most important features of C language are
 
 These features are defined below: -
 
-1. <u>**Procedural language**</u> : In a procedural language like C step-by-step, predefined instructions are carried out out. C program may contain more than one function to perform particular task.
-2. <u>**Fast and Efficient**</u> : 
+1. **Procedural language** : In a procedural language like C step-by-step, predefined instructions are carried out out. C program may contain more than one function to perform particular task.
+2. **Fast and Efficient** : 
