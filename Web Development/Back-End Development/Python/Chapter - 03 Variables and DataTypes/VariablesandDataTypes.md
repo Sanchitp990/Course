@@ -15,11 +15,11 @@ A datatype represents the type of data stored in a variable or memory. The datat
 
 The datatypes which are already in Python language are called *Built-in* datatypes. The built-in datatypes are of five types:
 
-    - NoneType 
-    - Numeric Types 
-    - Sequences 
-    - Sets 
-    - Mappings
+- NoneType 
+- Numeric Types 
+- Sequences 
+- Sets 
+- Mappings
 
 ### NoneType 
 
