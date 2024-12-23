@@ -2,10 +2,8 @@
 ## Overview
 
 - Data Types in Python 
-- Built-in data types 
-    - NoneType 
-    - Numeric Types 
-    - Sequences 
+- Built-in data types
+- Variables in Python
 
 ## Data Types in Python 
 
@@ -16,7 +14,8 @@ A datatype represents the type of data stored in a variable or memory. The datat
 The datatypes which are already in Python language are called *Built-in* datatypes. The built-in datatypes are of five types:
 
 - NoneType 
-- Numeric Types 
+- Numeric Types
+- Boolean Type
 - Sequences 
 - Sets 
 - Mappings
@@ -89,6 +88,16 @@ x = 10
 y = -5
 complex(x, y) # Output is 10-5j
 ```
+### Boolean Type
+Boolean datatype in Python represents boolean values which is `True` or `False`.
+Python internally represents True as `1` and False as `0`. For example,
+- let's take a variable `x` value as `5` and variable `y` value as `10`, if `x is Less than y`.
+
+```python
+x = 5
+y = 10
+print(x > y) # Output is True
+```
 
 ### Sequences 
 
@@ -96,3 +105,20 @@ complex(x, y) # Output is 10-5j
 
 ### Mappings 
 
+## Variables in Python
+
+In Python our even every programming language the defination of variables is almost same which is : *Variable in Programming is a named storage location that holds a value or data. These values can change during the execution of a program, hence the term "variable." Variables are essential for storing and manipulating data in computer programs. A variable is the basic building block of a program that can be used in expressions as a substitute in place of the value it stores.*
+
+<ins>***OR***</ins>
+
+*A variable is a name given by a programmer that holds a value or data*. For example.
+
+```python
+x = 10 # A variable name x which contains value of 10
+```
+
+## Rules to 
+
+In python there are some rules we must need to follow while creating a variable which are listed below:
+
+- Variable names can contain only letters, numbers, and underscores. They can start with a letter or underscore, but not with a number.
