@@ -3,6 +3,8 @@
 
 - Introduction to C
 - Features of C language
+- Why Should a person learn C?
+- Some areas where C is widely used
 
 ## Introduction to C
 
@@ -25,7 +27,7 @@ The most important features of C language are
 2. **Modularity**
 3. **Middle-level language**
 
-These features are defined below: -
+**These features are defined below: -**
 
 1. **Simplicity** : C has a strightfoward and simple syntax, making it easier to learn and use.
 
