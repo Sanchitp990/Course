@@ -24,8 +24,8 @@ The most important features of C language are
 1. **Structured Programming**
 1. **Extensibility**
 1. **Flexibility**
-2. **Modularity**
-3. **Middle-level language**
+1. **Modularity**
+1. **Middle-level language**
 
 **These features are defined below: -**
 
