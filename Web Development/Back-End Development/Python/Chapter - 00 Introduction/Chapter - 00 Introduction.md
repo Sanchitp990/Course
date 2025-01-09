@@ -7,7 +7,16 @@
 
 ## Introduction to Python
 
-Python is most popular programming language created by *[Guido Van Rossum](<https://en.wikipedia.org/wiki/Guido_van_Rossum>)* in the year 1991 at the Center for Mathematics and Computer Science managed by the Dutch Government. Python is commonly used for *data science, data analysis, machine learning, data engineering, web development, software development, and other fields*. 
+Python is most popular programming language created by *[Guido Van Rossum](<https://en.wikipedia.org/wiki/Guido_van_Rossum>)* in the year 1991 at the Center for Mathematics and Computer Science managed by the Dutch Government. 
+
+Python is commonly used for :-
+
+- Data Science, 
+- Data Analysis, 
+- AI/ML, 
+- CyberSecurity, 
+- Web Development, 
+- Software Development, and many more.
 
 ## How the Python gets his name
 
