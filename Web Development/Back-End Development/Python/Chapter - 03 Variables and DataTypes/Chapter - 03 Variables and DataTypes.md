@@ -107,11 +107,11 @@ print(x > y) # Output is True
 
 ## Variables in Python
 
-In Python our even every programming language the defination of variables is almost same which is : *Variable in Programming is a named storage location that holds a value or data. These values can change during the execution of a program, hence the term "variable." Variables are essential for storing and manipulating data in computer programs. A variable is the basic building block of a program that can be used in expressions as a substitute in place of the value it stores.*
+In Python our even every programming language the defination of variables is almost same which is : "*Variable in Programming is a named storage location that holds a value or data. These values can change during the execution of a program, hence the term "variable." Variables are essential for storing and manipulating data in computer programs. A variable is the basic building block of a program that can be used in expressions as a substitute in place of the value it stores.*"
 
 <ins>***OR***</ins>
 
-*A variable is a name given by a programmer that holds a value or data*. For example.
+"*A variable is a name given by a programmer that holds a value or data*". For example.
 
 ```python
 x = 10 # A variable name x which contains value of 10
