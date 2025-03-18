@@ -25,14 +25,14 @@ Information is defined as processed, structured, and organized data that is pres
 
 **Classification of data structures :-**
 
-![Classification of data structures](<GitHub_Images/Classification of data structures.svg>)
+![Classification of data structures](/GitHub_Images/Classification%20of%20data%20structures.svg)
 
 **Detailed explanation of the above classification :-**
 
 1. Primitive Data Structure :-
 The are basic data structures that include *Integers, Float, Character, and Boolean*.
 
-2. Non-Primitive Data Structure :-
+1. Non-Primitive Data Structure :-
 These are more complex data structures and are futher classified into:
 
    - Linear Data Structure :-
