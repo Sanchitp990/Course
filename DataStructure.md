@@ -25,7 +25,7 @@ Information is defined as processed, structured, and organized data that is pres
 
 **Classification of data structures :-**
 
-![Classification of data structures](/GitHub_Images/Classification%20of%20data%20structures.svg)
+![Classification of data structures](</GitHub_Images/Classification%20of%20data%20structures.svg>)
 
 **Detailed explanation of the above classification :-**
 
