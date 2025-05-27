@@ -25,7 +25,7 @@ Information is defined as processed, structured, and organized data that is pres
 
 **Classification of data structures :-**
 
-![Classification of data structures](<GitHub_Images/Classification of data structures.png>)
+![Classification of data structures](<../../GitHub_Images/Classification of data structures.png>)
 
 **Detailed explanation of the above classification :-**
 
@@ -33,7 +33,7 @@ Information is defined as processed, structured, and organized data that is pres
 
    These are basic data structures that include *Integers, Float, Character, and Boolean*.
 
-1. **<ins>Primitive Data Structures</ins>** :-
+2. **<ins>Primitive Data Structures</ins>** :-
 
    These are more complex data structures and are futher classified into:
 
@@ -49,3 +49,5 @@ Information is defined as processed, structured, and organized data that is pres
       
       *Examples: graphs, and trees.*
 
+
+ - **Array :-** 
