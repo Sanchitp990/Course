@@ -24,5 +24,5 @@ This GitHub repository documents contains external resources. All external resou
 
 
 
-[![DSA with C](GitHub_Images/folder.png)](<DSA with C>)
+[![DSA with C](<GitHub Images/folder.png>)](<DSA with C>)
 **DSA with C :** []() 
