@@ -55,7 +55,5 @@ Learning C is beneficial because it is the foundation for many modern programmin
 
 ## Some areas where C is widely used
 
-1. **System programming**,
-1. **embedded systems**,
-1. **Performance-Critical Applications**,
-1. **Compilers and Interpreters**, etc.,
+1. **Operating System**
+2. **embedded systems**, many more.

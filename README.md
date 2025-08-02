@@ -1,4 +1,4 @@
-# Web Development
+<!-- # Web Development
 
 Web Development is divided into two parts:
 
@@ -15,4 +15,14 @@ Web Development is divided into two parts:
 
 
 
-*for example: - If you visit a website like amazon, flipkart, facebook, etc., * 
+*for example: - If you visit a website like amazon, flipkart, facebook, etc., *  -->
+
+# About this Repositories
+
+
+This GitHub repository documents contains external resources. All external resources link with their folders name are provided below:
+
+
+
+[![DSA with C](GitHub_Images/folder.png)](<DSA with C>)
+**DSA with C :** []() 

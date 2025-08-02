@@ -1,5 +1,5 @@
 # Chapter - 01 | Get Started
-## Overview
+<!-- ## Overview
 
 - Installation of C Compiler
 - Installation of Code Editor
@@ -7,4 +7,6 @@
 
 ## Installation of C Compiler
 
-Form this section
+Form this section -->
+
+To get started with C we first need to a compiler and a code editor 

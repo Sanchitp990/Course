@@ -1,12 +1,28 @@
-# Data Structure
+# Basic Terminology of Data Structure
 
-## 1. What is Data?
+### 1. Data:
 
 Data is a collection of raw, unorganized facts, figures or observations that require processing to become meaningful.
 
-## 2. What is Information?
+### 2. Information:
 
 Information is defined as processed, structured, and organized data that is presented in a meaningful context, making it useful, relevent, and understandable to the person who needs it.
+
+### 3. Data Item:
+A data items refers single unit of values. It divided into two parts:
+
+1. **Group item**
+2. **Elementry item**
+
+Here is a full discrepuction
+
+
+1. ### Group Item:
+Data items that are divided into sub-items are called <ins>Group items</ins>.  
+
+2. ### Elementry item:
+Data items that are not able to divide into sub-items are called <ins>Elementary items</ins>.
+
 
 **Difference between Data and Information :-**
 
@@ -18,36 +34,3 @@ Information is defined as processed, structured, and organized data that is pres
 | Example    | "`DLROW OLLEH`" Collection of character        | "`HELLO WORLD`" Meaningful Data                     |
 | Form       | Unprocessed and unorganized.                   | Processed, organized and meaningful.                |
 | Purpose    | Cannot be directly used for decision-making    | Can be used for decision-making and understanding   |
-
-## Introduction to Data Structure
-
-<ins>Data Structure</ins> is a particular way of storing and organizing data in a computer so that it can be used efficiently.
-
-**Classification of data structures :-**
-
-![Classification of data structures](<../../GitHub_Images/Classification of data structures.png>)
-
-**Detailed explanation of the above classification :-**
-
-1. **<ins>Primitive Data Structures</ins>** :-
-
-   These are basic data structures that include *Integers, Float, Character, and Boolean*.
-
-2. **<ins>Primitive Data Structures</ins>** :-
-
-   These are more complex data structures and are futher classified into:
-
-   - **<ins>Linear Data Structures</ins>** :-
-
-      In these data structures, data elements are arranged sequentially. 
-         
-      *Examples: Array, Linked List, Stack, and Queues.*
-
-   - **<ins>Non-Linear Data Structures</ins>** :-
-         
-      Here data elements aren't placed in a sequence.
-      
-      *Examples: graphs, and trees.*
-
-
- - **Array :-** 
