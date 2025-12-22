@@ -20,7 +20,7 @@ Web Development is divided into two parts:
 # About this Repositories
 
 
-This GitHub repository documents contains external resources. All external resources link with their folders name are provided below:
+This GitHub repository documents contains external resources. All external resources link with their folders name are provided below, click the folder icons to visit:
 
 
 
