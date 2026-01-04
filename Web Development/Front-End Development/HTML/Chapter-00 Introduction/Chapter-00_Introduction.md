@@ -1,13 +1,4 @@
 # Chapter - 00 | HTML Introduction
-## Overview
-
-In this tutorial you will see a introduction to HTML this tutorial contains topic such as:
-
-- HTML Introduction 
-  - What is HTML
-- HTML Syntax
-  - Explanation of above HTML document 
-- History HTML
 
 
 ## HTML Introduction

@@ -1,14 +1,8 @@
 # Chapter - 00 | Introduction
-## Overview
-
-- Introduction to C
-- Features of C language
-- Why Should a person learn C?
-- Some areas where C is widely used
 
 ## Introduction to C
 
-C is a programming language developed at AT & T's Bell Laboratories of USA in 1972 by Dennis Ritchie.
+C is a general-purpose procedural programming language initially developed by Dennis Ritchie in 1972 at AT & T's Bell Laboratories of USA .
 
 C was initially developed to create **UNIX Operating System**.
 
@@ -29,7 +23,7 @@ The most important features of C language are
 
 **These features are defined below: -**
 
-1. **Simplicity and Efficiency** : C's straightforward syntax makes it accessible for beginners and allows for the development of efficient programs. Its design facilitates low-level access to memory and system processes, enabling the creation of applications that perform optimally. ​
+1. **Simplicity and Efficiency** : C's straightforward syntax makes it accessible for beginners and allows for the development of efficient programs. It's design facilitates low-level access to memory and system processes, enabling the creation of applications that perform optimally. ​
 
 2. **Portability** : Programs written in C can be compiled and executed on various platforms with minimal or no modification, making it ideal for cross-platform development. This portability has contributed to its widespread adoption across different systems.
 
@@ -55,5 +49,7 @@ Learning C is beneficial because it is the foundation for many modern programmin
 
 ## Some areas where C is widely used
 
-1. **Operating System**
-2. **embedded systems**, many more.
+1. **Operating Systems**
+2. **Embedded Systems**
+3. **Compilers and Interpreters**
+4. **Databases**
