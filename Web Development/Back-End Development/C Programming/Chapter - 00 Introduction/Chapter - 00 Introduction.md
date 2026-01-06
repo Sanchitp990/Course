@@ -43,9 +43,9 @@ The most important features of C language are
 
 10. **Recursion** : The language supports recursive function calls, allowing functions to invoke themselves. This feature is essential for solving problems that can be broken down into smaller, similar sub-problems, such as in algorithms for sorting and searching.
 
-## Why Should a person learn C?
+## Why we are learning C?
 
-Learning C is beneficial because it is the foundation for many modern programming languages. Languages like Java, PHP, JavaScript, and others have borrowed syntax and concepts directly or indirectly from C. By learning C, you develop a strong understanding of programming fundamentals, which can make it easier to learn other languages later.
+C is a mother of all programming language at present, all other programming languages like C++, Java, Python, JavaScript, etc are either directly or indirectly writtern in C. So, it is a great approach to learn C at first and later migrate to other programming language.
 
 ## Some areas where C is widely used
 
@@ -53,3 +53,8 @@ Learning C is beneficial because it is the foundation for many modern programmin
 2. **Embedded Systems**
 3. **Compilers and Interpreters**
 4. **Databases**
+5. **System Software**
+6. **Game Development**
+7. **Network Programming**
+8. **Scientific Computing**
+9.  **IoT (Internet of Things)**
