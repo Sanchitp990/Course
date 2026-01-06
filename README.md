@@ -29,5 +29,4 @@ This GitHub repository documents contains external resources. All external resou
 
 [![Web Development](<GitHub Images/folder.png>)](<Web Development>) **Web Development :** This folder contains resources related to web development. It is divided into two main parts: [Front-End Development](<Web Development/Front-End Development>) and [Back-End Development](<Web Development/Back-End Development>).
 
-
-![Comming Soon](<GitHub Images/CommingSoon.png>)[![Game Development](<GitHub Images/folder.png>)](<Game Development>) **Game Development :** This folder contains resources related to game development.
+<img src="GitHub Images/CommingSoon.png" alt="Comming Soon" width="50" height="50"/>[![Game Development](<GitHub Images/folder.png>)](<Game Development>) **Game Development :** This folder contains resources related to game development.
