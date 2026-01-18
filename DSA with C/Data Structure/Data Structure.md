@@ -7,7 +7,7 @@
 
 **Classification of data structures :-**
 
-![Classification of data structures](</GitHub Images/Classification of data structures.png>)
+![Classification of data structures](</GitHubImages/Classification of data structures.png>)
 
 **Detailed explanation of the above classification :-**
 
@@ -30,7 +30,7 @@
 
  - **Array :-** *An array is a collection of items of some data type stored at contiguous (one after another) memory locations.*
 
-There are three main types of Arrays:-
+In C there are two main types of Arrays:-
 
 1. One-dimensional Array(1D Array):
 2. Multi-dimensional Array(2D or 3D Array):
